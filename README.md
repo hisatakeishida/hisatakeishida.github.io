@@ -1,1 +1,0 @@
-# hisatakeishida.github.io
