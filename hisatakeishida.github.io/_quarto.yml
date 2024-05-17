@@ -1,0 +1,6 @@
+project:
+  title: "hisatakeishida.github.io"
+  type: website
+  output-dir: ../docs
+
+editor: visual
