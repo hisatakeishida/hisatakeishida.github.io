@@ -1,9 +1,29 @@
 ---
-title: "About"
+title: "Research"
 ---
 
-About this site
+## Research webpage
 
-```{r}
-1 + 1
+```         
+[Google scholar](https://scholar.google.com.au/citations?user=i9KXKD8AAAAJ&hl=en)
 ```
+
+```         
+[Research gate](https://www.researchgate.net/profile/Hisatake-Ishida/research)
+```
+
+## Endosymbiotic dinoflagellates in corals 
+
+```         
+[Developing model systems for dinoflagellates in the post‐genomic era](https://scholar.google.com.au/citations?view_op=view_citation&hl=en&user=i9KXKD8AAAAJ&citation_for_view=i9KXKD8AAAAJ:u5HHmVD_uO8C)
+```
+
+```         
+[Cryptic species and hybridisation in corals: challenges and opportunities for conservation and restoration](https://scholar.google.com.au/citations?view_op=view_citation&hl=en&user=i9KXKD8AAAAJ&citation_for_view=i9KXKD8AAAAJ:9yKSN-GCB0IC)
+```
+
+```         
+[Contaminant or goldmine? In silico assessment of Symbiodiniaceae community using coral hologenomes](https://scholar.google.com.au/citations?view_op=view_citation&hl=en&user=i9KXKD8AAAAJ&citation_for_view=i9KXKD8AAAAJ:2osOgNQ5qMEC)
+```
+
+## Free–living microbial communities in coral reef sediments
