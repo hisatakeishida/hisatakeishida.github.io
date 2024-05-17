@@ -6,7 +6,7 @@ website:
   title: "Hisatake Ishida"
   navbar:
     left:
-      - href: index.qmd
+      - href: hisatakeishida.github.io.qmd
         text: Home
       - about.qmd
 
