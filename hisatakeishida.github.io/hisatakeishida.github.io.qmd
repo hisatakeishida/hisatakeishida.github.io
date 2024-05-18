@@ -2,10 +2,12 @@
 title: "About me"
 ---
 
-Hello! I am Hisatake (Take) Ishida, PhD candidate at the University of Queensland. Supervised by Associate Professor Cheong Xin Chan and Professor Cynthia Riginos.
+Hello! I am Hisatake (Take) Ishida, PhD candidate at the University of Queensland.
+
+Supervised by Associate Professor Cheong Xin Chan and Professor Cynthia Riginos.
 
 The overarching aim of my PhD is:
 
-**To investigate compositional and functional diversity of microbes in Great Barrier Reef using hologenomics and metagenomics!**
+**To assess evolutionary and functional diversity of microbes in coral reefs using hologenomics and metagenomics!**
 
 More specifically, I am investigating biodiversity and functional potential of endosymbiotic dinoflagellates (family Symbiodiniaceae) in reef-building corals and free-living microbial communities in coral reef sediments across the Great Barrier Reef.
