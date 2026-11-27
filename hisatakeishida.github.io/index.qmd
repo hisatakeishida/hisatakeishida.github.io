@@ -82,7 +82,7 @@ Australian Centre for Ecogenomics, The University of Queensland, Australia
 2022 to present
 :::
 ::: {.cv-details}
-**Tutor** across six courses; lead tutor for MICR3004 Microbial Genomics and BIOL3303 Genomics\
+**Casual Academic** tutoring across six courses; lead tutor for MICR3004 Microbial Genomics and BIOL3303 Genomics\
 The University of Queensland, Australia
 :::
 :::
@@ -112,8 +112,8 @@ Riginos Research Group, The University of Queensland, Australia
 2021
 :::
 ::: {.cv-details}
-**Assistant Bioinformatician**, Boden Lab; **Seawater Aquarist**, Visual Ecology Lab\
-The University of Queensland, Australia\
+**Assistant Bioinformatician**, Boden Lab, The University of Queensland, Australia;\
+**Seawater Aquarist**, Visual Ecology Lab, The University of Queensland, Australia;\
 **Research Assistant**, Science Under Sail, Australia
 :::
 :::
