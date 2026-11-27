@@ -47,6 +47,9 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap-fe317192c362bcb41c610a4a628e6639.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -184,14 +187,15 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<!-- To add photos: put them in img/gallery/ and add one line per photo inside the
-     gallery block below, for example:
-![](img/gallery/01-heron-island.jpg){group="gallery" fig-alt="Heron Island reef flat"}
--->
 <div class="gallery">
-
+<p><a href="img/gallery/Fish_1.jpeg" class="lightbox" data-gallery="gallery"><img src="img/gallery/Fish_1.jpeg" class="img-fluid" alt="FISH"></a></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="img/gallery/Fish_1.jpeg" class="lightbox" data-gallery="gallery" title="Fishv2"><img src="img/gallery/Fish_1.jpeg" class="img-fluid figure-img" alt="FISH2"></a></p>
+<figcaption>Fishv2</figcaption>
+</figure>
 </div>
-<p><em>Photos coming soon.</em></p>
+</div>
 
 
 
@@ -686,6 +690,38 @@ ul.task-list li input[type="checkbox"] {
 </div>
   </div>
 </footer>
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":true,"openEffect":"zoom","selector":".lightbox"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 

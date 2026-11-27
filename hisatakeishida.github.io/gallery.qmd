@@ -10,8 +10,8 @@ format:
 
 ::: {.gallery}
 
-![](img/gallery/Fish_1.jpeg){group="gallery" fig-alt="FISH}
+![](img/gallery/Fish_1.jpeg){group="gallery" fig-alt="FISH"}
 
-![Fishv2](img/gallery/Fish_1.jpg){group="gallery" fig-alt="FISH2"}
+![Fishv2](img/gallery/Fish_1.jpeg){group="gallery" fig-alt="FISH2"}
 
 :::
