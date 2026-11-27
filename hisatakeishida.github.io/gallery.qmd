@@ -42,12 +42,16 @@ format:
 
 ![](img/gallery-web/img_6376.jpg){group="gallery" fig-alt="With colleagues at a conference"}
 
+![](img/gallery-web/1785722779081.jpeg){group="gallery" fig-alt="JAMS15"}
+
 :::
 
 
 ## Talks, conferences, and outreach
 
 ::: {.gallery}
+
+![](img/gallery-web/tmp_b3e778d4-516c-432b-a1fc-c8aaf457b6c4.jpeg){group="gallery" fig-alt="Talk on sediment metagenomics of the Great Barrier Reef at Brisjams"}
 
 ![](img/gallery-web/received_1775746316903344.jpg){group="gallery" fig-alt="Talk on sediment metagenomics of the Great Barrier Reef"}
 
@@ -64,6 +68,7 @@ format:
 ![](img/gallery-web/20210624_163820_IMG_0663.jpg){group="gallery" fig-alt="Talking with visitors at an outreach stall"}
 
 ![](img/gallery-web/20210630_132612_IMG_0686.jpg){group="gallery" fig-alt="Centre for Marine Science outreach team"}
+
 
 :::
 

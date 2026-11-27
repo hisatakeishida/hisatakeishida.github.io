@@ -1,10 +1,7 @@
-::::: {.hero .no-photo}
-<!-- To add a headshot: save it as img/Headshot.jpg, remove ".no-photo" above,
-     and uncomment the block below.
+::::: {.hero}
 ::: {.hero-photo}
-![](img/Headshot.jpg){fig-alt="Portrait of Take"}
+![](img/IMG_4199.JPG){fig-alt="Portrait of Take"}
 :::
--->
 
 ::: {.hero-text}
 ::: {.hero-kicker}
