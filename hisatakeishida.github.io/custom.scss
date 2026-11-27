@@ -1,0 +1,291 @@
+/*-- scss:defaults --*/
+
+/* Colours: change these to restyle the whole site */
+$site-bg: #e4ecea;        /* pale sea-mist background */
+$site-accent: #1d5c63;    /* deep reef teal navbar */
+$site-hover: #2a9d8f;     /* lighter teal for hover */
+$site-text: #2f3b3d;
+$site-muted: #56625f;
+$link-color: #1d7a74;
+
+/*-- scss:rules --*/
+
+/* ---------- Site-wide ---------- */
+
+body {
+  background-color: $site-bg;
+}
+
+.navbar {
+  background-color: $site-accent !important;
+}
+
+.navbar a,
+.navbar-brand {
+  color: #ffffff !important;
+}
+
+h2 {
+  margin-top: 3rem;
+  padding-bottom: 0.6rem;
+}
+
+/* ---------- Landing page ---------- */
+
+/* Photo on the left, text on the right */
+.hero {
+  display: grid;
+  grid-template-columns: 280px minmax(0, 1fr);
+  gap: 3.5rem;
+  align-items: center;
+  margin: 2rem 0 4rem;
+}
+
+/* Used until a headshot is added */
+.hero.no-photo {
+  grid-template-columns: minmax(0, 1fr);
+}
+
+.hero-photo figure,
+.hero-photo p {
+  margin: 0;
+}
+.hero-photo img {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 4 / 5;
+  object-fit: cover;
+  object-position: 50% 40%;
+  border-radius: 18px;
+  box-shadow: 0 10px 28px rgba(0, 0, 0, 0.18);
+}
+
+.hero-kicker {
+  font-size: 0.8rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: $site-muted;
+  margin-bottom: 0.4rem;
+}
+
+.hero-name {
+  font-size: 2.6rem;
+  font-weight: 700;
+  line-height: 1.15;
+  margin-bottom: 1.2rem;
+  color: $site-text;
+}
+
+.hero-text p {
+  font-size: 1.05rem;
+  line-height: 1.75;
+  margin-bottom: 1.1rem;
+}
+
+/* Kicker and name sit inside paragraphs, so restate their sizes */
+.hero-text .hero-kicker p {
+  font-size: 0.8rem;
+  margin-bottom: 0;
+}
+.hero-text .hero-name p {
+  font-size: 2.6rem;
+  font-weight: 700;
+  line-height: 1.15;
+  margin-bottom: 0;
+  color: $site-text;
+}
+
+/* Topic tags */
+.chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 1.4rem 0;
+}
+.chips p {
+  display: contents;
+  margin: 0;
+}
+.chip {
+  display: inline-block;
+  padding: 0.25rem 0.8rem;
+  border-radius: 999px;
+  border: 1px solid rgba(47, 59, 61, 0.35);
+  font-size: 0.85rem;
+  color: $site-text;
+}
+
+/* Education and research timeline */
+.cv-item {
+  display: grid;
+  grid-template-columns: 9rem minmax(0, 1fr);
+  gap: 1.5rem;
+  padding: 1rem 0;
+  border-bottom: 0.5px solid rgba(47, 59, 61, 0.25);
+}
+.cv-item:last-of-type {
+  border-bottom: none;
+}
+.cv-date {
+  font-size: 0.9rem;
+  color: $site-muted;
+  padding-top: 0.15rem;
+}
+.cv-details p {
+  margin: 0;
+  line-height: 1.6;
+}
+
+@media (max-width: 800px) {
+  .hero {
+    grid-template-columns: 1fr;
+    gap: 1.8rem;
+  }
+  .hero-photo img {
+    max-width: 240px;
+    margin: 0 auto;
+  }
+  .hero-name,
+  .hero-text .hero-name p {
+    font-size: 2.1rem;
+  }
+  .cv-item {
+    grid-template-columns: 1fr;
+    gap: 0.2rem;
+  }
+}
+
+/* ---------- Research highlights ---------- */
+
+.research-item {
+  display: grid;
+  grid-template-columns: minmax(0, 1.7fr) minmax(0, 1fr);
+  gap: 3rem;
+  align-items: center;
+  margin: 2rem 0 5rem;
+}
+
+/* Mirrored version: image on the left */
+.research-item.reverse {
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1.7fr);
+}
+.research-item.reverse .research-figure {
+  order: -1;
+}
+
+.research-text p {
+  font-size: 1.02rem;
+  line-height: 1.75;
+  margin-bottom: 1.1rem;
+}
+
+/* "Published in ..." label */
+.research-text p:nth-last-of-type(2) {
+  font-size: 0.8rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  opacity: 0.65;
+  margin-bottom: 0.6rem;
+}
+
+/* Button-style links */
+a.paper-link {
+  display: inline-block;
+  padding: 0.55rem 1.3rem;
+  border-radius: 999px;
+  background: $site-text;
+  color: #f4f6f5;
+  font-weight: 600;
+  font-size: 0.95rem;
+  text-decoration: none;
+  border-bottom: none;
+  transition: transform 0.15s ease, background 0.15s ease;
+}
+a.paper-link:hover {
+  background: $site-hover;
+  color: #fff;
+  transform: translateY(-2px);
+}
+
+.research-figure figure,
+.research-figure p {
+  margin: 0;
+}
+.research-figure img {
+  display: block;
+  width: 100%;
+  max-width: 460px;
+  height: auto;
+  margin: 0 auto;
+  background: #fff;
+  border-radius: 14px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
+}
+
+@media (max-width: 800px) {
+  .research-item,
+  .research-item.reverse {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+    margin-bottom: 3.5rem;
+  }
+  .research-item.reverse .research-figure {
+    order: 0;
+  }
+  .research-figure img {
+    max-width: 520px;
+  }
+}
+
+/* ---------- Code ---------- */
+
+.code-item {
+  padding: 1.4rem 0 1.6rem;
+  border-bottom: 0.5px solid rgba(47, 59, 61, 0.25);
+}
+.code-item:last-of-type {
+  border-bottom: none;
+}
+.code-item p {
+  line-height: 1.7;
+}
+
+/* ---------- Gallery ---------- */
+
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1.25rem;
+  margin: 1.5rem 0 3rem;
+}
+.gallery > * {
+  margin: 0 !important;
+}
+.gallery figure,
+.gallery p {
+  margin: 0;
+}
+.gallery a {
+  display: block;
+}
+.gallery img {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  border-radius: 12px;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.15);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.gallery a:hover img {
+  transform: translateY(-3px);
+  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.22);
+}
+@media (max-width: 900px) {
+  .gallery { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+@media (max-width: 500px) {
+  .gallery { grid-template-columns: 1fr; }
+}

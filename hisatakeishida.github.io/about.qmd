@@ -1,43 +1,27 @@
----
-title: "Research"
----
+## 2026
 
-## Links
+**Ishida H**, Robbins SJ, Bell SC, Lim JY, Terzin M, Webster N, Bourn DG, Laffy PW, Hugenholtz P, Yeoh YK, Chan CX (2026) Comparative metagenomics reveal diversity and metabolic heterogeneity of sediment microbes from the Great Barrier Reef. *bioRxiv*, 2026.2011.2017.767448. <https://doi.org/10.64898/2026.11.17.767448>
 
-[Google Scholar](https://scholar.google.com.au/citations?user=i9KXKD8AAAAJ&hl=en) · [ResearchGate](https://www.researchgate.net/profile/Hisatake-Ishida/research) · [GitHub](https://github.com/hisatakeishida)
+Denis H, Prata K, **Ishida H**, Popovic I, Mocellin VJL, Boussioni M, Byrne I, Bay LK, Lecellier G, Chan CX, Riginos C, Howells E, Berteaux-Lecellier V (2026) Contrasting population structures of reef-building corals and their algal symbionts inform adaptive potential across the western Pacific. *Current Biology* 36 (11), 2808-2822. e8. <https://doi.org/10.1016/j.cub.2026.04.057>
 
-## Endosymbiotic dinoflagellates in corals
+## 2024
 
-Coral hologenome data are dominated by host sequences, yet the remaining 5 to 10% of reads offer a PCR-free window into Symbiodiniaceae living *in hospite*. I compiled a scalable workflow that combines assembly-based, alignment-based and alignment-free (k-mer) approaches to assess symbiont communities from hologenomes ([Symb-SHIN](https://github.com/hisatakeishida/Symb-SHIN)).
+Prata K, Bongaerts P, Dwyer J, **Ishida H**, Howitt S, Hereward J, Crandall E, Riginos C (2024) Some reef-building corals only disperse metres per generation. *Proceedings of the Royal Society B: Biological Sciences* 291 (2027), 20231988. <https://doi.org/10.1098/rspb.2023.1988>
 
-Applying it to 4,013 coral hologenomes from six coral genera across the Great Barrier Reef, Western Australia and the Pacific showed that:
+**Ishida H**, Riginos C, Chan CX (2024) Contaminant or goldmine? In silico assessment of Symbiodiniaceae community using coral hologenomes. *Frontiers in Eukaryotic Microbiology* 2, 1376877. <https://doi.org/10.3389/frpro.2024.1376877>
 
--   *Cladocopium* dominates almost all coral holobionts, with three major radiations (C1, C3 and C15) and many finer lineages;
--   the environment shapes symbiont communities of mass-spawning corals with horizontal symbiont transmission (*Acropora*), whereas host genetic identity matters more in brooding corals with vertical transmission (*Stylophora*);
--   lineage-aware co-assembly recovers symbiont genomes *in hospite*: 32 *Cladocopium* genomes from 9 species, revealing the C15-radiation as the earliest-diverging lineage of the genus, with a distinct gene repertoire.
+Riginos C, Popovic I, Meziere Z, Garcia V, Byrne I, Howitt S, **Ishida H**, Bairos-Novak K, Humanes A, Scharfenstein H, Richards J, Briggs E, Clark V, Lei C, Khan M, Prata K (2024). Cryptic species and hybridisation in corals: challenges and opportunities for conservation and restoration. *Peer Community Journal* 4. <https://doi.org/10.24072/pcjournal.492>
 
-## Microbes in coral reef sediments
+## 2023
 
-Reef sediments are a hotspot of nutrient cycling but remain largely unexplored at genome level. From 191 sediment metagenomes collected at 48 sites across the Great Barrier Reef, I recovered 2,698 metagenome-assembled genomes (1,201 species), 98% of which have no species-level representative in reference databases. Compared with co-located seawater, sediment microbes have larger, GC-rich genomes and greater metabolic versatility, including anaerobic respiration, nitrogen fixation, hydrogen metabolism and novel biosynthetic gene clusters ([preprint](https://doi.org/10.64898/2026.11.17.767448)).
+**Ishida H**, John U, Murray SA, Bhattacharya D, Chan CX (2023) Developing model systems for dinoflagellates in the post-genomic era. *Journal of Phycology* 59 (5), 799-808. <https://doi.org/10.1111/jpy.13386>
 
-At Pelorus Island and Davies Reef, habitat type (front reef, back reef and lagoon) structures prokaryotic communities more than reef location, with metabolically flexible habitat generalists dominating. Sediment viruses, in contrast, are highly novel, local, and structured by reef location.
+## In revision
 
-## Publications
+Liu X, **Ishida H**, Wu M, Yu Z, Yuan Z, Chan CX, Guo J. Fungal oxidation of short-chain gaseous alkanes under extremely acidic conditions. In revision at *Microbiome*.
 
-### Refereed manuscripts
+## In preparation
 
-1.  **Ishida H**, Robbins SJ, Bell SC, Lim JY, Terzin M, Webster N, Bourn DG, Laffy PW, Hugenholtz P, Yeoh YK, Chan CX (2026) Comparative metagenomics reveal diversity and metabolic heterogeneity of sediment microbes from the Great Barrier Reef. *bioRxiv*, 2026.2011.2017.767448. <https://doi.org/10.64898/2026.11.17.767448>
-2.  Denis H, Prata K, **Ishida H**, Popovic I, Mocellin VJL, Boussioni M, Byrne I, Bay LK, Lecellier G, Chan CX, Riginos C, Howells E, Berteaux-Lecellier V (2026) Contrasting population structures of reef-building corals and their algal symbionts inform adaptive potential across the western Pacific. *Current Biology* 36 (11), 2808-2822. e8. <https://doi.org/10.1016/j.cub.2026.04.057>
-3.  Prata K, Bongaerts P, Dwyer J, **Ishida H**, Howitt S, Hereward J, Crandall E, Riginos C (2024) Some reef-building corals only disperse metres per generation. *Proceedings of the Royal Society B: Biological Sciences* 291 (2027), 20231988. <https://doi.org/10.1098/rspb.2023.1988>
-4.  **Ishida H**, Riginos C, Chan CX (2024) Contaminant or goldmine? In silico assessment of Symbiodiniaceae community using coral hologenomes. *Frontiers in Eukaryotic Microbiology* 2, 1376877. <https://doi.org/10.3389/frpro.2024.1376877>
-5.  Riginos C, Popovic I, Meziere Z, Garcia V, Byrne I, Howitt S, **Ishida H**, Bairos-Novak K, Humanes A, Scharfenstein H, Richards J, Briggs E, Clark V, Lei C, Khan M, Prata K (2024). Cryptic species and hybridisation in corals: challenges and opportunities for conservation and restoration. *Peer Community Journal* 4. <https://doi.org/10.24072/pcjournal.492>
-6.  **Ishida H**, John U, Murray SA, Bhattacharya D, Chan CX (2023) Developing model systems for dinoflagellates in the post-genomic era. *Journal of Phycology* 59 (5), 799-808. <https://doi.org/10.1111/jpy.13386>
+**Ishida H**, Riginos C, Chan CX. Habitat-resolved genomic view of prokaryotic and viral communities in sediments of the Great Barrier Reef.
 
-### Manuscripts in revision
-
-1.  Liu X, **Ishida H**, Wu M, Yu Z, Yuan Z, Chan CX, Guo J, Fungal oxidation of short-chain gaseous alkanes under extremely acidic conditions. In revision at *Microbiome*
-
-### Manuscripts in preparation
-
-1.  **Ishida H**, Riginos C, Chan CX, Habitat-resolved genomic view of prokaryotic and viral communities in sediments of the Great Barrier Reef
-2.  **Ishida H**, Meziere Z, Byrne I, Denis H, Naugle M, Bertola L, Popovic I, Howells E, Riginos C, Chan CX, Comparative analysis of 4,000 coral hologenomes highlights the diversity, lifestyle, and genome evolution of endosymbiotic dinoflagellates
+**Ishida H**, Meziere Z, Byrne I, Denis H, Naugle M, Bertola L, Popovic I, Howells E, Riginos C, Chan CX. Comparative analysis of 4,000 coral hologenomes highlights the diversity, lifestyle, and genome evolution of endosymbiotic dinoflagellates.

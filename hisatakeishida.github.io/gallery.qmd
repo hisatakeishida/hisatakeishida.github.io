@@ -1,0 +1,20 @@
+---
+title: "Gallery"
+format:
+  html:
+    lightbox:
+      match: auto
+      loop: true
+      desc-position: bottom
+---
+
+<!-- To add photos: put them in img/gallery/ and add one line per photo inside the
+     gallery block below, for example:
+![](img/gallery/01-heron-island.jpg){group="gallery" fig-alt="Heron Island reef flat"}
+-->
+
+::: {.gallery}
+
+:::
+
+*Photos coming soon.*

@@ -1,0 +1,122 @@
+::::: {.hero .no-photo}
+<!-- To add a headshot: save it as img/Headshot.jpg, remove ".no-photo" above,
+     and uncomment the block below.
+::: {.hero-photo}
+![](img/Headshot.jpg){fig-alt="Portrait of Take"}
+:::
+-->
+
+::: {.hero-text}
+::: {.hero-kicker}
+Senior research technician · Australian Centre for Ecogenomics, The University of Queensland
+:::
+
+::: {.hero-name}
+Hi, I am Take
+:::
+
+I am a microbial genomicist at the Australian Centre for Ecogenomics, The University of Queensland. My research uses metagenomics, hologenomics, population genomics and phylogenomics to study the "challenging" microbes of coral reefs: the endosymbiotic dinoflagellates (family Symbiodiniaceae) living inside reef-building corals, and the free-living prokaryotes and viruses in reef sediments of the Great Barrier Reef.
+
+During my PhD, supervised by Associate Professor Cheong Xin Chan and Professor Cynthia Riginos, I assessed Symbiodiniaceae communities in more than 4,000 coral hologenomes, recovered symbiont genomes directly from coral tissue, and built the first genome-resolved catalogue of Great Barrier Reef sediment microbes. I am interested in how microbial diversity, niche breadth and genome evolution underpin reef function, and in building microbial baselines that support reef monitoring and restoration.
+
+I now maintain the Symbiodiniaceae living culture collection at ACE and develop software tools for teaching in undergraduate courses at UQ, while finalising manuscripts from my PhD. I am always happy to discuss potential collaborations, so please feel free to reach out!
+
+::: {.chips}
+[Metagenomics]{.chip} [Hologenomics]{.chip} [Phylogenomics]{.chip} [Coral photosymbiosis]{.chip} [Symbiodiniaceae]{.chip} [Reef microbial ecology]{.chip}
+:::
+
+:::
+:::::
+
+## Education and research experience
+
+::: {.cv-item}
+::: {.cv-date}
+2025 to present
+:::
+::: {.cv-details}
+**Learning Design Officer**, software developer for the Teaching and Learning (TnL) program\
+School of Chemistry and Molecular Biosciences, The University of Queensland, Australia
+:::
+:::
+
+::: {.cv-item}
+::: {.cv-date}
+2025 to 2026
+:::
+::: {.cv-details}
+**Data Analyst**\
+Riginos Research Group, The University of Queensland, Australia
+:::
+:::
+
+::: {.cv-item}
+::: {.cv-date}
+2023 to present
+:::
+::: {.cv-details}
+**Senior Research Technician**, Symbiodiniaceae living culture collection (algal culture collection technician since 2023)\
+Australian Centre for Ecogenomics, The University of Queensland, Australia
+:::
+:::
+
+::: {.cv-item}
+::: {.cv-date}
+2023 to 2026
+:::
+::: {.cv-details}
+**PhD in Microbial Genomics and Computational Biology** (thesis submitted October 2026)\
+Australian Centre for Ecogenomics, The University of Queensland, Australia
+:::
+:::
+
+::: {.cv-item}
+::: {.cv-date}
+2022 to present
+:::
+::: {.cv-details}
+**Tutor** across six courses; lead tutor for MICR3004 Microbial Genomics and BIOL3303 Genomics\
+The University of Queensland, Australia
+:::
+:::
+
+::: {.cv-item}
+::: {.cv-date}
+2022
+:::
+::: {.cv-details}
+**BSc (Honours) in Genomics**, Class 1; UQ International Onshore Merit Scholarship\
+The University of Queensland, Australia
+:::
+:::
+
+::: {.cv-item}
+::: {.cv-date}
+2020 to 2022
+:::
+::: {.cv-details}
+**Photogrammetry Analyst**\
+Riginos Research Group, The University of Queensland, Australia
+:::
+:::
+
+::: {.cv-item}
+::: {.cv-date}
+2021
+:::
+::: {.cv-details}
+**Assistant Bioinformatician**, Boden Lab; **Seawater Aquarist**, Visual Ecology Lab\
+The University of Queensland, Australia\
+**Research Assistant**, Science Under Sail, Australia
+:::
+:::
+
+::: {.cv-item}
+::: {.cv-date}
+2019 to 2021
+:::
+::: {.cv-details}
+**BSc in Computational Science and Marine Science** (dual major); Dean's Commendation for Academic Excellence\
+The University of Queensland, Australia
+:::
+:::

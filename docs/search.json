@@ -1,72 +1,107 @@
 [
   {
+    "objectID": "gallery.html",
+    "href": "gallery.html",
+    "title": "Gallery",
+    "section": "",
+    "text": "Photos coming soon."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "Research",
+    "title": "Hisatake Ishida",
     "section": "",
-    "text": "Google Scholar · ResearchGate · GitHub"
+    "text": "Ishida H, Robbins SJ, Bell SC, Lim JY, Terzin M, Webster N, Bourn DG, Laffy PW, Hugenholtz P, Yeoh YK, Chan CX (2026) Comparative metagenomics reveal diversity and metabolic heterogeneity of sediment microbes from the Great Barrier Reef. bioRxiv, 2026.2011.2017.767448. https://doi.org/10.64898/2026.11.17.767448\nDenis H, Prata K, Ishida H, Popovic I, Mocellin VJL, Boussioni M, Byrne I, Bay LK, Lecellier G, Chan CX, Riginos C, Howells E, Berteaux-Lecellier V (2026) Contrasting population structures of reef-building corals and their algal symbionts inform adaptive potential across the western Pacific. Current Biology 36 (11), 2808-2822. e8. https://doi.org/10.1016/j.cub.2026.04.057"
   },
   {
-    "objectID": "about.html#links",
-    "href": "about.html#links",
-    "title": "Research",
+    "objectID": "about.html#section",
+    "href": "about.html#section",
+    "title": "Hisatake Ishida",
     "section": "",
-    "text": "Google Scholar · ResearchGate · GitHub"
+    "text": "Ishida H, Robbins SJ, Bell SC, Lim JY, Terzin M, Webster N, Bourn DG, Laffy PW, Hugenholtz P, Yeoh YK, Chan CX (2026) Comparative metagenomics reveal diversity and metabolic heterogeneity of sediment microbes from the Great Barrier Reef. bioRxiv, 2026.2011.2017.767448. https://doi.org/10.64898/2026.11.17.767448\nDenis H, Prata K, Ishida H, Popovic I, Mocellin VJL, Boussioni M, Byrne I, Bay LK, Lecellier G, Chan CX, Riginos C, Howells E, Berteaux-Lecellier V (2026) Contrasting population structures of reef-building corals and their algal symbionts inform adaptive potential across the western Pacific. Current Biology 36 (11), 2808-2822. e8. https://doi.org/10.1016/j.cub.2026.04.057"
   },
   {
-    "objectID": "about.html#endosymbiotic-dinoflagellates-in-corals",
-    "href": "about.html#endosymbiotic-dinoflagellates-in-corals",
-    "title": "Research",
-    "section": "Endosymbiotic dinoflagellates in corals",
-    "text": "Endosymbiotic dinoflagellates in corals\nCoral hologenome data are dominated by host sequences, yet the remaining 5 to 10% of reads offer a PCR-free window into Symbiodiniaceae living in hospite. I compiled a scalable workflow that combines assembly-based, alignment-based and alignment-free (k-mer) approaches to assess symbiont communities from hologenomes (Symb-SHIN).\nApplying it to 4,013 coral hologenomes from six coral genera across the Great Barrier Reef, Western Australia and the Pacific showed that:\n\nCladocopium dominates almost all coral holobionts, with three major radiations (C1, C3 and C15) and many finer lineages;\nthe environment shapes symbiont communities of mass-spawning corals with horizontal symbiont transmission (Acropora), whereas host genetic identity matters more in brooding corals with vertical transmission (Stylophora);\nlineage-aware co-assembly recovers symbiont genomes in hospite: 32 Cladocopium genomes from 9 species, revealing the C15-radiation as the earliest-diverging lineage of the genus, with a distinct gene repertoire."
+    "objectID": "about.html#section-1",
+    "href": "about.html#section-1",
+    "title": "Hisatake Ishida",
+    "section": "2024",
+    "text": "2024\nPrata K, Bongaerts P, Dwyer J, Ishida H, Howitt S, Hereward J, Crandall E, Riginos C (2024) Some reef-building corals only disperse metres per generation. Proceedings of the Royal Society B: Biological Sciences 291 (2027), 20231988. https://doi.org/10.1098/rspb.2023.1988\nIshida H, Riginos C, Chan CX (2024) Contaminant or goldmine? In silico assessment of Symbiodiniaceae community using coral hologenomes. Frontiers in Eukaryotic Microbiology 2, 1376877. https://doi.org/10.3389/frpro.2024.1376877\nRiginos C, Popovic I, Meziere Z, Garcia V, Byrne I, Howitt S, Ishida H, Bairos-Novak K, Humanes A, Scharfenstein H, Richards J, Briggs E, Clark V, Lei C, Khan M, Prata K (2024). Cryptic species and hybridisation in corals: challenges and opportunities for conservation and restoration. Peer Community Journal 4. https://doi.org/10.24072/pcjournal.492"
   },
   {
-    "objectID": "about.html#microbes-in-coral-reef-sediments",
-    "href": "about.html#microbes-in-coral-reef-sediments",
-    "title": "Research",
-    "section": "Microbes in coral reef sediments",
-    "text": "Microbes in coral reef sediments\nReef sediments are a hotspot of nutrient cycling but remain largely unexplored at genome level. From 191 sediment metagenomes collected at 48 sites across the Great Barrier Reef, I recovered 2,698 metagenome-assembled genomes (1,201 species), 98% of which have no species-level representative in reference databases. Compared with co-located seawater, sediment microbes have larger, GC-rich genomes and greater metabolic versatility, including anaerobic respiration, nitrogen fixation, hydrogen metabolism and novel biosynthetic gene clusters (preprint).\nAt Pelorus Island and Davies Reef, habitat type (front reef, back reef and lagoon) structures prokaryotic communities more than reef location, with metabolically flexible habitat generalists dominating. Sediment viruses, in contrast, are highly novel, local, and structured by reef location."
+    "objectID": "about.html#section-2",
+    "href": "about.html#section-2",
+    "title": "Hisatake Ishida",
+    "section": "2023",
+    "text": "2023\nIshida H, John U, Murray SA, Bhattacharya D, Chan CX (2023) Developing model systems for dinoflagellates in the post-genomic era. Journal of Phycology 59 (5), 799-808. https://doi.org/10.1111/jpy.13386"
   },
   {
-    "objectID": "about.html#publications",
-    "href": "about.html#publications",
-    "title": "Research",
-    "section": "Publications",
-    "text": "Publications\n\nRefereed manuscripts\n\nIshida H, Robbins SJ, Bell SC, Lim JY, Terzin M, Webster N, Bourn DG, Laffy PW, Hugenholtz P, Yeoh YK, Chan CX (2026) Comparative metagenomics reveal diversity and metabolic heterogeneity of sediment microbes from the Great Barrier Reef. bioRxiv, 2026.2011.2017.767448. https://doi.org/10.64898/2026.11.17.767448\nDenis H, Prata K, Ishida H, Popovic I, Mocellin VJL, Boussioni M, Byrne I, Bay LK, Lecellier G, Chan CX, Riginos C, Howells E, Berteaux-Lecellier V (2026) Contrasting population structures of reef-building corals and their algal symbionts inform adaptive potential across the western Pacific. Current Biology 36 (11), 2808-2822. e8. https://doi.org/10.1016/j.cub.2026.04.057\nPrata K, Bongaerts P, Dwyer J, Ishida H, Howitt S, Hereward J, Crandall E, Riginos C (2024) Some reef-building corals only disperse metres per generation. Proceedings of the Royal Society B: Biological Sciences 291 (2027), 20231988. https://doi.org/10.1098/rspb.2023.1988\nIshida H, Riginos C, Chan CX (2024) Contaminant or goldmine? In silico assessment of Symbiodiniaceae community using coral hologenomes. Frontiers in Eukaryotic Microbiology 2, 1376877. https://doi.org/10.3389/frpro.2024.1376877\nRiginos C, Popovic I, Meziere Z, Garcia V, Byrne I, Howitt S, Ishida H, Bairos-Novak K, Humanes A, Scharfenstein H, Richards J, Briggs E, Clark V, Lei C, Khan M, Prata K (2024). Cryptic species and hybridisation in corals: challenges and opportunities for conservation and restoration. Peer Community Journal 4. https://doi.org/10.24072/pcjournal.492\nIshida H, John U, Murray SA, Bhattacharya D, Chan CX (2023) Developing model systems for dinoflagellates in the post-genomic era. Journal of Phycology 59 (5), 799-808. https://doi.org/10.1111/jpy.13386\n\n\n\nManuscripts in revision\n\nLiu X, Ishida H, Wu M, Yu Z, Yuan Z, Chan CX, Guo J, Fungal oxidation of short-chain gaseous alkanes under extremely acidic conditions. In revision at Microbiome\n\n\n\nManuscripts in preparation\n\nIshida H, Riginos C, Chan CX, Habitat-resolved genomic view of prokaryotic and viral communities in sediments of the Great Barrier Reef\nIshida H, Meziere Z, Byrne I, Denis H, Naugle M, Bertola L, Popovic I, Howells E, Riginos C, Chan CX, Comparative analysis of 4,000 coral hologenomes highlights the diversity, lifestyle, and genome evolution of endosymbiotic dinoflagellates"
+    "objectID": "about.html#in-revision",
+    "href": "about.html#in-revision",
+    "title": "Hisatake Ishida",
+    "section": "In revision",
+    "text": "In revision\nLiu X, Ishida H, Wu M, Yu Z, Yuan Z, Chan CX, Guo J. Fungal oxidation of short-chain gaseous alkanes under extremely acidic conditions. In revision at Microbiome."
+  },
+  {
+    "objectID": "about.html#in-preparation",
+    "href": "about.html#in-preparation",
+    "title": "Hisatake Ishida",
+    "section": "In preparation",
+    "text": "In preparation\nIshida H, Riginos C, Chan CX. Habitat-resolved genomic view of prokaryotic and viral communities in sediments of the Great Barrier Reef.\nIshida H, Meziere Z, Byrne I, Denis H, Naugle M, Bertola L, Popovic I, Howells E, Riginos C, Chan CX. Comparative analysis of 4,000 coral hologenomes highlights the diversity, lifestyle, and genome evolution of endosymbiotic dinoflagellates."
   },
   {
     "objectID": "code.html",
     "href": "code.html",
-    "title": "Code",
+    "title": "Hisatake Ishida",
     "section": "",
-    "text": "Symb-SHIN: workflow for assessing Symbiodiniaceae communities from coral hologenome data.\nIMOS-GBR-Sediment-Microbe: methods, data and code for the comparative metagenomic analysis of Great Barrier Reef sediment microbes."
+    "text": "A workflow for assessing Symbiodiniaceae communities from coral hologenome data, combining assembly-based, read alignment-based and alignment-free (k-mer) approaches.\nView on GitHub →"
   },
   {
-    "objectID": "hisatakeishida.github.io.html",
-    "href": "hisatakeishida.github.io.html",
-    "title": "About me",
+    "objectID": "code.html#symb-shin",
+    "href": "code.html#symb-shin",
+    "title": "Hisatake Ishida",
     "section": "",
-    "text": "Hello! I am Hisatake (Take) Ishida, a microbial genomicist at the Australian Centre for Ecogenomics (ACE), School of Chemistry and Molecular Biosciences, The University of Queensland.\nI have submitted my PhD thesis, supervised by Associate Professor Cheong Xin Chan and Professor Cynthia Riginos. I now work as a senior research technician at ACE and as a Learning Design Officer at UQ, where I develop software tools for teaching in undergraduate courses, while finalising manuscripts from my PhD."
+    "text": "A workflow for assessing Symbiodiniaceae communities from coral hologenome data, combining assembly-based, read alignment-based and alignment-free (k-mer) approaches.\nView on GitHub →"
   },
   {
-    "objectID": "hisatakeishida.github.io.html#phd-research",
-    "href": "hisatakeishida.github.io.html#phd-research",
-    "title": "About me",
-    "section": "PhD research",
-    "text": "PhD research\nEcology, Evolution, and the Environment: tackling “challenging” microbes of coral reefs using hologenomics and metagenomics\nCoral reefs depend on microbes in seawater, sediments and the tissues of reef organisms. Some of these microbes are “challenging”: hard to culture, hard to sample, or hidden in data dominated by other organisms. My PhD used genome-scale data taken directly from the environment to study two such groups:\n\nEndosymbiotic dinoflagellates (family Symbiodiniaceae) in reef-building corals. Using the microbial fraction of 4,013 coral hologenomes, I assessed symbiont diversity across the Indo-Pacific, showed how host genetics and the environment shape symbiont communities, and recovered 32 genomes of Cladocopium directly from coral tissue (in hospite).\nFree-living prokaryotes and viruses in coral reef sediments of the Great Barrier Reef. I recovered 2,698 metagenome-assembled genomes representing 1,201 species, 98% of which have no species-level reference, and showed how reef habitat structures sediment communities and their metabolic potential."
+    "objectID": "code.html#imos-gbr-sediment-microbe",
+    "href": "code.html#imos-gbr-sediment-microbe",
+    "title": "Hisatake Ishida",
+    "section": "IMOS-GBR-Sediment-Microbe",
+    "text": "IMOS-GBR-Sediment-Microbe\n\nMethods, data and code for the comparative metagenomic analysis of Great Barrier Reef sediment microbes.\nView on GitHub →"
   },
   {
-    "objectID": "hisatakeishida.github.io.html#research-interests",
-    "href": "hisatakeishida.github.io.html#research-interests",
-    "title": "About me",
-    "section": "Research interests",
-    "text": "Research interests\n\nMetagenomics, hologenomics, population genomics and phylogenomics\nCoral photosymbiosis and genome evolution of Symbiodiniaceae\nDiversity, function and niche breadth of reef microbes\nMicrobial baselines for coral reef monitoring and restoration"
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Hisatake Ishida",
+    "section": "",
+    "text": "Coral hologenome data, generated by sequencing DNA from whole coral tissue, are dominated by host sequences, and the remaining 5 to 10% of reads are often discarded as “contaminant”. We showed that this fraction is a goldmine: a PCR-free window into the endosymbiotic dinoflagellates (Symbiodiniaceae) living in hospite. We reviewed assembly-based, read alignment-based and alignment-free (k-mer) approaches, and using 148 hologenomes of Acropora kenti from the central Great Barrier Reef, resolved symbiont communities that track riverine influence. The workflow, Symb-SHIN, now scales to thousands of hologenomes.\nPublished in Frontiers in Eukaryotic Microbiology\nRead the paper →"
   },
   {
-    "objectID": "hisatakeishida.github.io.html#other-roles",
-    "href": "hisatakeishida.github.io.html#other-roles",
-    "title": "About me",
-    "section": "Other roles",
-    "text": "Other roles\n\nMaintaining the Symbiodiniaceae living culture collection at ACE\nLead tutor for UQ’s Microbial Genomics and Genomics courses\n\nSee the Research page for publications and the Code page for software and analysis repositories."
+    "objectID": "research.html#symbiodiniaceae-hidden-in-coral-hologenomes",
+    "href": "research.html#symbiodiniaceae-hidden-in-coral-hologenomes",
+    "title": "Hisatake Ishida",
+    "section": "",
+    "text": "Coral hologenome data, generated by sequencing DNA from whole coral tissue, are dominated by host sequences, and the remaining 5 to 10% of reads are often discarded as “contaminant”. We showed that this fraction is a goldmine: a PCR-free window into the endosymbiotic dinoflagellates (Symbiodiniaceae) living in hospite. We reviewed assembly-based, read alignment-based and alignment-free (k-mer) approaches, and using 148 hologenomes of Acropora kenti from the central Great Barrier Reef, resolved symbiont communities that track riverine influence. The workflow, Symb-SHIN, now scales to thousands of hologenomes.\nPublished in Frontiers in Eukaryotic Microbiology\nRead the paper →"
+  },
+  {
+    "objectID": "research.html#diversity-and-metabolism-of-great-barrier-reef-sediment-microbes",
+    "href": "research.html#diversity-and-metabolism-of-great-barrier-reef-sediment-microbes",
+    "title": "Hisatake Ishida",
+    "section": "Diversity and metabolism of Great Barrier Reef sediment microbes",
+    "text": "Diversity and metabolism of Great Barrier Reef sediment microbes\n\n\nReef sediments are a hotspot of nutrient cycling, yet their microbes remain largely unexplored at genome level. From 191 sediment metagenomes collected at 48 sites along the Great Barrier Reef, we recovered 2,698 metagenome-assembled genomes representing 1,201 species, 98% of which have no species-level representative in reference databases. Compared with co-located seawater, sediment microbes have larger, GC-rich genomes and greater metabolic versatility, including anaerobic respiration, nitrogen fixation, hydrogen metabolism and novel biosynthetic gene clusters.\nPreprint on bioRxiv\nRead the preprint →"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hisatake Ishida",
+    "section": "",
+    "text": "Senior research technician · Australian Centre for Ecogenomics, The University of Queensland\n\n\nHi, I am Take\n\nI am a microbial genomicist at the Australian Centre for Ecogenomics, The University of Queensland. My research uses metagenomics, hologenomics, population genomics and phylogenomics to study the “challenging” microbes of coral reefs: the endosymbiotic dinoflagellates (family Symbiodiniaceae) living inside reef-building corals, and the free-living prokaryotes and viruses in reef sediments of the Great Barrier Reef.\nDuring my PhD, supervised by Associate Professor Cheong Xin Chan and Professor Cynthia Riginos, I assessed Symbiodiniaceae communities in more than 4,000 coral hologenomes, recovered symbiont genomes directly from coral tissue, and built the first genome-resolved catalogue of Great Barrier Reef sediment microbes. I am interested in how microbial diversity, niche breadth and genome evolution underpin reef function, and in building microbial baselines that support reef monitoring and restoration.\nI now maintain the Symbiodiniaceae living culture collection at ACE and develop software tools for teaching in undergraduate courses at UQ, while finalising manuscripts from my PhD. I am always happy to discuss potential collaborations, so please feel free to reach out!\n\nMetagenomics Hologenomics Phylogenomics Coral photosymbiosis Symbiodiniaceae Reef microbial ecology"
+  },
+  {
+    "objectID": "index.html#education-and-research-experience",
+    "href": "index.html#education-and-research-experience",
+    "title": "Hisatake Ishida",
+    "section": "Education and research experience",
+    "text": "Education and research experience\n\n\n2025 to present\n\n\nLearning Design Officer, software developer for the Teaching and Learning (TnL) program\nSchool of Chemistry and Molecular Biosciences, The University of Queensland, Australia\n\n\n\n\n2025 to 2026\n\n\nData Analyst\nRiginos Research Group, The University of Queensland, Australia\n\n\n\n\n2023 to present\n\n\nSenior Research Technician, Symbiodiniaceae living culture collection (algal culture collection technician since 2023)\nAustralian Centre for Ecogenomics, The University of Queensland, Australia\n\n\n\n\n2023 to 2026\n\n\nPhD in Microbial Genomics and Computational Biology (thesis submitted October 2026)\nAustralian Centre for Ecogenomics, The University of Queensland, Australia\n\n\n\n\n2022 to present\n\n\nTutor across six courses; lead tutor for MICR3004 Microbial Genomics and BIOL3303 Genomics\nThe University of Queensland, Australia\n\n\n\n\n2022\n\n\nBSc (Honours) in Genomics, Class 1; UQ International Onshore Merit Scholarship\nThe University of Queensland, Australia\n\n\n\n\n2020 to 2022\n\n\nPhotogrammetry Analyst\nRiginos Research Group, The University of Queensland, Australia\n\n\n\n\n2021\n\n\nAssistant Bioinformatician, Boden Lab; Seawater Aquarist, Visual Ecology Lab\nThe University of Queensland, Australia\nResearch Assistant, Science Under Sail, Australia\n\n\n\n\n2019 to 2021\n\n\nBSc in Computational Science and Marine Science (dual major); Dean’s Commendation for Academic Excellence\nThe University of Queensland, Australia"
   }
 ]
