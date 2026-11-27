@@ -5,7 +5,7 @@
 
 ::: {.hero-text}
 ::: {.hero-kicker}
-Senior research technician · Australian Centre for Ecogenomics, The University of Queensland
+Senior research assistant · Australian Centre for Ecogenomics, The University of Queensland
 :::
 
 ::: {.hero-name}
@@ -16,16 +16,26 @@ I am a microbial genomicist at the Australian Centre for Ecogenomics, The Univer
 
 During my PhD, supervised by Associate Professor Cheong Xin Chan and Professor Cynthia Riginos, I assessed Symbiodiniaceae communities in more than 4,000 coral hologenomes, recovered symbiont genomes directly from coral tissue, and built the first genome-resolved catalogue of Great Barrier Reef sediment microbes. I am interested in how microbial diversity, niche breadth and genome evolution underpin reef function, and in building microbial baselines that support reef monitoring and restoration.
 
-I now maintain the Symbiodiniaceae living culture collection at ACE and develop software tools for teaching in undergraduate courses at UQ, while finalising manuscripts from my PhD. I am always happy to discuss potential collaborations, so please feel free to reach out!
+I now work as a senior research assistant at ACE, developing machine learning tools that predict health status from k-mer profiles of metagenomic data. I also maintain the Symbiodiniaceae living culture collection and develop software tools for teaching in undergraduate courses at UQ, while finalising manuscripts from my PhD. I am always happy to discuss potential collaborations, so please feel free to reach out!
 
 ::: {.chips}
-[Metagenomics]{.chip} [Hologenomics]{.chip} [Phylogenomics]{.chip} [Coral photosymbiosis]{.chip} [Symbiodiniaceae]{.chip} [Reef microbial ecology]{.chip}
+[Metagenomics]{.chip} [Hologenomics]{.chip} [Phylogenomics]{.chip} [Coral photosymbiosis]{.chip} [Symbiodiniaceae]{.chip} [Reef microbial ecology]{.chip} [Machine learning]{.chip}
 :::
 
 :::
 :::::
 
 ## Education and research experience
+
+::: {.cv-item}
+::: {.cv-date}
+2026 to present
+:::
+::: {.cv-details}
+**Senior Research Assistant**, developing machine learning tools that predict health status from k-mer profiles of metagenomic data\
+Australian Centre for Ecogenomics, The University of Queensland, Australia
+:::
+:::
 
 ::: {.cv-item}
 ::: {.cv-date}
@@ -52,7 +62,7 @@ Riginos Research Group, The University of Queensland, Australia
 2023 to present
 :::
 ::: {.cv-details}
-**Senior Research Technician**, Symbiodiniaceae living culture collection (algal culture collection technician since 2023)\
+**Algal Culture Collection Technician**, Symbiodiniaceae living culture collection\
 Australian Centre for Ecogenomics, The University of Queensland, Australia
 :::
 :::
