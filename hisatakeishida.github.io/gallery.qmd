@@ -8,10 +8,159 @@ format:
       desc-position: bottom
 ---
 
+<!-- One line per photo, with a blank line between photos.
+     Web-sized copies live in img/gallery-web/ (originals stay in img/gallery/). -->
+
+## Corals
+
 ::: {.gallery}
 
-![](img/gallery/Fish_1.jpeg){group="gallery" fig-alt="FISH"}
+![](img/gallery-web/20211204_132647_IMG_3534.jpg){group="gallery" fig-alt="Branching coral close-up"}
 
-![Fishv2](img/gallery/Fish_1.jpeg){group="gallery" fig-alt="FISH2"}
+![](img/gallery-web/P8130092.jpg){group="gallery" fig-alt="Branching coral with brown polyps"}
+
+![](img/gallery-web/P8130096.jpg){group="gallery" fig-alt="White branching coral"}
+
+![](img/gallery-web/P8130179.jpg){group="gallery" fig-alt="Close-up of coral branch tips"}
+
+![](img/gallery-web/P8130224.jpg){group="gallery" fig-alt="Branching coral colony close-up"}
+
+![](img/gallery-web/P8130225.jpg){group="gallery" fig-alt="Coral branch tips with blue polyps"}
+
+![](img/gallery-web/IMAG0012.jpg){group="gallery" fig-alt="Goby sheltering among coral branches"}
+
+![](img/gallery-web/20210927_061434_IMG_1935.jpg){group="gallery" fig-alt="Mushroom coral"}
+
+![](img/gallery-web/20210927_061000_IMG_1931.jpg){group="gallery" fig-alt="Zoanthid polyps"}
+
+![](img/gallery-web/P8130241.jpg){group="gallery" fig-alt="Plating coral close-up"}
+
+![](img/gallery-web/IMAG0032.jpg){group="gallery" fig-alt="Pink soft coral"}
+
+![](img/gallery-web/P8130230.jpg){group="gallery" fig-alt="Table coral with small fish"}
+
+:::
+
+## Marine life
+
+::: {.gallery}
+
+![](img/gallery-web/20210722_103318_IMG_1130.jpg){group="gallery" fig-alt="Nudibranch on reef rubble"}
+
+![](img/gallery-web/20211216_132609_IMG_4008.jpg){group="gallery" fig-alt="Blue nudibranch with red spots"}
+
+![](img/gallery-web/20211216_132624_IMG_4007.jpg){group="gallery" fig-alt="Blue nudibranch with red spots"}
+
+![](img/gallery-web/20211216_132756_IMG_4006.jpg){group="gallery" fig-alt="White nudibranch with red spots"}
+
+![](img/gallery-web/20211216_132758_IMG_4005.jpg){group="gallery" fig-alt="White nudibranch with red spots"}
+
+![](img/gallery-web/20211216_133448_IMG_4004.jpg){group="gallery" fig-alt="White flatworm with black margin"}
+
+![](img/gallery-web/IMAG0024.jpg){group="gallery" fig-alt="Orange nudibranchs on encrusted rock"}
+
+![](img/gallery-web/IMAG0006.jpg){group="gallery" fig-alt="Shrimp among anemone tentacles"}
+
+![](img/gallery-web/20210930_072321_IMG_2485.jpg){group="gallery" fig-alt="Epaulette shark on sand"}
+
+![](img/gallery-web/flatworm-24-04-06-21-14-18-620.jpg){group="gallery" fig-alt="Small transparent crustaceans"}
+
+:::
+
+## Reefs and seascapes
+
+::: {.gallery}
+
+![](img/gallery-web/IMAG0012_1.jpg){group="gallery" fig-alt="Coral reef slope"}
+
+![](img/gallery-web/IMAG0020.jpg){group="gallery" fig-alt="Diver over a coral-covered slope"}
+
+![](img/gallery-web/IMAG0021_1.jpg){group="gallery" fig-alt="Soft coral colonies on a reef"}
+
+![](img/gallery-web/20211003_054553_IMG_2995.jpg){group="gallery" fig-alt="Shallow reef flat"}
+
+![](img/gallery-web/20211204_112703_IMG_3466.jpg){group="gallery" fig-alt="School of fish under sunlight"}
+
+![](img/gallery-web/20230310_123644.jpg){group="gallery" fig-alt="Rocky shore at low tide"}
+
+![](img/gallery-web/IMG-20231002-WA0041.jpg){group="gallery" fig-alt="Kayaking on a calm bay"}
+
+![](img/gallery-web/20240330_113628.jpg){group="gallery" fig-alt="Kayak on a river"}
+
+![](img/gallery-web/20260122_115713.jpg){group="gallery" fig-alt="Kayak among mangroves"}
+
+:::
+
+## In the lab
+
+::: {.gallery}
+
+![](img/gallery-web/20230626_111140.jpg){group="gallery" fig-alt="Polarella culture flasks"}
+
+![](img/gallery-web/20230626_112753.jpg){group="gallery" fig-alt="Culture tubes"}
+
+:::
+
+## Talks and conferences
+
+::: {.gallery}
+
+![](img/gallery-web/received_1775746316903344.jpg){group="gallery" fig-alt="Talk on sediment metagenomics of the Great Barrier Reef"}
+
+![](img/gallery-web/IMG-20260724-WA0000.jpg){group="gallery" fig-alt="Talk on coral hologenomics"}
+
+![](img/gallery-web/IMG_3223-1.jpg){group="gallery" fig-alt="Presenting a seminar"}
+
+![](img/gallery-web/20221127_175132.jpg){group="gallery" fig-alt="Seminar presentation"}
+
+![](img/gallery-web/IMG-20260723-WA0003.jpg){group="gallery" fig-alt="Group at the International Coral Reef Symposium"}
+
+![](img/gallery-web/IMG-20260821-WA0005.jpg){group="gallery" fig-alt="Group at ISME20 in Auckland"}
+
+![](img/gallery-web/3WPMBS_26_11_25_highres-124.jpg){group="gallery" fig-alt="Group photo at the West Pacific Marine Biology Network Symposium"}
+
+![](img/gallery-web/3WPMBS_27_11_25_highres-47.jpg){group="gallery" fig-alt="Conference social event"}
+
+![](img/gallery-web/3WPMBS_27_11_25_highres-53.jpg){group="gallery" fig-alt="Conference social event"}
+
+![](img/gallery-web/3WPMBS_27_11_25_highres-72.jpg){group="gallery" fig-alt="Conference social event"}
+
+![](img/gallery-web/img_6376.jpg){group="gallery" fig-alt="With colleagues at a conference"}
+
+:::
+
+## Outreach
+
+::: {.gallery}
+
+![](img/gallery-web/20201012_193033_IMG_3452.jpg){group="gallery" fig-alt="CoralWatch team with an Act Now banner"}
+
+![](img/gallery-web/20210326_125915_IMG_0430.jpg){group="gallery" fig-alt="Science outreach stall"}
+
+![](img/gallery-web/20210624_163820_IMG_0663.jpg){group="gallery" fig-alt="Talking with visitors at an outreach stall"}
+
+![](img/gallery-web/20210630_132612_IMG_0686.jpg){group="gallery" fig-alt="Centre for Marine Science outreach team"}
+
+:::
+
+## Team and friends
+
+::: {.gallery}
+
+![](img/gallery-web/IMG_3266.jpg){group="gallery" fig-alt="Research group outdoors"}
+
+![](img/gallery-web/DSC5940.jpg){group="gallery" fig-alt="Group on a beach"}
+
+![](img/gallery-web/20230604_195238_WhatsApp_Image_2023-06-02_at_17_45_14.jpg){group="gallery" fig-alt="Group on a beach at dusk"}
+
+![](img/gallery-web/20230604_195238_WhatsApp_Image_2023-06-02_at_17_45_15_1.jpg){group="gallery" fig-alt="Picnic on a coastal headland"}
+
+![](img/gallery-web/20211004_185820_IMG_3020.jpg){group="gallery" fig-alt="Field team on a beach"}
+
+![](img/gallery-web/20220811_205710_hdr.jpg){group="gallery" fig-alt="Group on a staircase"}
+
+![](img/gallery-web/1720765297675.jpg){group="gallery" fig-alt="Kengo and Ryota from Tohoku University"}
+
+![](img/gallery-web/Picture.png){group="gallery" fig-alt="RRAP ECT01 and ECO03"}
 
 :::
