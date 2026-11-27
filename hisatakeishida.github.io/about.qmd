@@ -41,9 +41,3 @@ At Pelorus Island and Davies Reef, habitat type (front reef, back reef and lagoo
 
 1.  **Ishida H**, Riginos C, Chan CX, Habitat-resolved genomic view of prokaryotic and viral communities in sediments of the Great Barrier Reef
 2.  **Ishida H**, Meziere Z, Byrne I, Denis H, Naugle M, Bertola L, Popovic I, Howells E, Riginos C, Chan CX, Comparative analysis of 4,000 coral hologenomes highlights the diversity, lifestyle, and genome evolution of endosymbiotic dinoflagellates
-
-## Code
-
-[Symb-SHIN](https://github.com/hisatakeishida/Symb-SHIN): workflow for assessing Symbiodiniaceae communities from coral hologenome data.
-
-[IMOS-GBR-Sediment-Microbe](https://github.com/hisatakeishida/IMOS-GBR-Sediment-Microbe): methods, data and code for the comparative metagenomic analysis of Great Barrier Reef sediment microbes.

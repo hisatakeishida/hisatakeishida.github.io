@@ -27,4 +27,4 @@ Coral reefs depend on microbes in seawater, sediments and the tissues of reef or
 -   Maintaining the Symbiodiniaceae living culture collection at ACE
 -   Lead tutor for UQ's Microbial Genomics and Genomics courses
 
-See the [Research](about.qmd) page for publications and code.
+See the [Research](about.qmd) page for publications and the [Code](code.qmd) page for software and analysis repositories.
