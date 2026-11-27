@@ -1,6 +1,6 @@
 ::::: {.hero}
 ::: {.hero-photo}
-![](img/IMG_4199.JPG){fig-alt="Portrait of Take"}
+![](img/Headshot.jpg){fig-alt="Portrait of Take"}
 :::
 
 ::: {.hero-text}

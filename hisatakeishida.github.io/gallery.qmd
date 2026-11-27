@@ -51,7 +51,7 @@ format:
 
 ::: {.gallery}
 
-![](img/gallery-web/tmp_b3e778d4-516c-432b-a1fc-c8aaf457b6c4.jpeg){group="gallery" fig-alt="Talk on sediment metagenomics of the Great Barrier Reef at Brisjams"}
+![](img/gallery-web/BrisJAMS_talk.jpg){group="gallery" fig-alt="Talk on sediment metagenomics of the Great Barrier Reef at Brisjams"}
 
 ![](img/gallery-web/received_1775746316903344.jpg){group="gallery" fig-alt="Talk on sediment metagenomics of the Great Barrier Reef"}
 
