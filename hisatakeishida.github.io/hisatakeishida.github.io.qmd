@@ -2,12 +2,29 @@
 title: "About me"
 ---
 
-Hello! I am Hisatake (Take) Ishida, PhD candidate at the University of Queensland.
+Hello! I am Hisatake (Take) Ishida, a microbial genomicist at the [Australian Centre for Ecogenomics](https://ecogenomic.org/) (ACE), School of Chemistry and Molecular Biosciences, The University of Queensland.
 
-Supervised by Associate Professor Cheong Xin Chan and Professor Cynthia Riginos.
+I have submitted my PhD thesis, supervised by Associate Professor Cheong Xin Chan and Professor Cynthia Riginos. I now work as a senior research technician at ACE and as a Learning Design Officer at UQ, where I develop software tools for teaching in undergraduate courses, while finalising manuscripts from my PhD.
 
-The overarching aim of my PhD is:
+## PhD research
 
-**To assess evolutionary and functional diversity of microbes in coral reefs using hologenomics and metagenomics!**
+**Ecology, Evolution, and the Environment: tackling "challenging" microbes of coral reefs using hologenomics and metagenomics**
 
-More specifically, I am investigating biodiversity and functional potential of endosymbiotic dinoflagellates (family Symbiodiniaceae) in reef-building corals and free-living microbial communities in coral reef sediments across the Great Barrier Reef.
+Coral reefs depend on microbes in seawater, sediments and the tissues of reef organisms. Some of these microbes are "challenging": hard to culture, hard to sample, or hidden in data dominated by other organisms. My PhD used genome-scale data taken directly from the environment to study two such groups:
+
+-   **Endosymbiotic dinoflagellates (family Symbiodiniaceae) in reef-building corals.** Using the microbial fraction of 4,013 coral hologenomes, I assessed symbiont diversity across the Indo-Pacific, showed how host genetics and the environment shape symbiont communities, and recovered 32 genomes of *Cladocopium* directly from coral tissue (*in hospite*).
+-   **Free-living prokaryotes and viruses in coral reef sediments of the Great Barrier Reef.** I recovered 2,698 metagenome-assembled genomes representing 1,201 species, 98% of which have no species-level reference, and showed how reef habitat structures sediment communities and their metabolic potential.
+
+## Research interests
+
+-   Metagenomics, hologenomics, population genomics and phylogenomics
+-   Coral photosymbiosis and genome evolution of Symbiodiniaceae
+-   Diversity, function and niche breadth of reef microbes
+-   Microbial baselines for coral reef monitoring and restoration
+
+## Other roles
+
+-   Maintaining the Symbiodiniaceae living culture collection at ACE
+-   Lead tutor for UQ's Microbial Genomics and Genomics courses
+
+See the [Research](about.qmd) page for publications and code.

@@ -2,18 +2,56 @@
 title: "Research"
 ---
 
-## Research webpage
+## Links
 
-[Google scholar](https://scholar.google.com.au/citations?user=i9KXKD8AAAAJ&hl=en)
+[Google Scholar](https://scholar.google.com.au/citations?user=i9KXKD8AAAAJ&hl=en) · [ResearchGate](https://www.researchgate.net/profile/Hisatake-Ishida/research) · [GitHub](https://github.com/hisatakeishida)
 
-[Research gate](https://www.researchgate.net/profile/Hisatake-Ishida/research)
+## Endosymbiotic dinoflagellates in corals
 
-## Endosymbiotic dinoflagellates in corals 
+Coral hologenome data are dominated by host sequences, yet the remaining 5 to 10% of reads offer a PCR-free window into Symbiodiniaceae living *in hospite*. I compiled a scalable workflow that combines assembly-based, alignment-based and alignment-free (k-mer) approaches to assess symbiont communities from hologenomes ([Symb-SHIN](https://github.com/hisatakeishida/Symb-SHIN)).
 
-Ishida, H., John, U., Murray, S. A., Bhattacharya, D., & Chan, C. X. (2023). Developing model systems for dinoflagellates in the post-genomic era. Journal ofPhycology, 59, 799–808. <https://doi.org/10.1111/jpy.13386>
+Applying it to 4,013 coral hologenomes from six coral genera across the Great Barrier Reef, Western Australia and the Pacific showed that:
 
-Riginos, C., Popovic, I., Meziere, Z., Garcia, V. O., Byrne, I., Howitt, S. M., Ishida, H., Bairos-Novak, K, R., Humanes, A., Scharfenstein, H., Richards, T, J., Briggs, E, J., Clark, V., Lei, C., Khan, M., Prata, K. (2024). Cryptic species and hybridisation in corals: challenges and opportunities for conservation and restoration. EcoEvoRxiv. doi: 10.3294/X2502X
+-   *Cladocopium* dominates almost all coral holobionts, with three major radiations (C1, C3 and C15) and many finer lineages;
+-   the environment shapes symbiont communities of mass-spawning corals with horizontal symbiont transmission (*Acropora*), whereas host genetic identity matters more in brooding corals with vertical transmission (*Stylophora*);
+-   lineage-aware co-assembly recovers symbiont genomes *in hospite*: 32 *Cladocopium* genomes from 9 species, revealing the C15-radiation as the earliest-diverging lineage of the genus, with a distinct gene repertoire.
 
-Ishida, H., Riginos, C., & Chan, C. X. (2024). Contaminant or goldmine? In silico assessment of Symbiodiniaceae community using coral hologenomes \[Mini Review\]. Frontiers in Protistology, 2, 1376877. <https://doi.org/10.3389/frpro.2024.1376877>
+## Microbes in coral reef sediments
 
-## Free–living microbial communities in coral reef sediments
+Reef sediments are a hotspot of nutrient cycling but remain largely unexplored at genome level. From 191 sediment metagenomes collected at 48 sites across the Great Barrier Reef, I recovered 2,698 metagenome-assembled genomes (1,201 species), 98% of which have no species-level representative in reference databases. Compared with co-located seawater, sediment microbes have larger, GC-rich genomes and greater metabolic versatility, including anaerobic respiration, nitrogen fixation, hydrogen metabolism and novel biosynthetic gene clusters.
+
+At Pelorus Island and Davies Reef, habitat type (front reef, back reef and lagoon) structures prokaryotic communities more than reef location, with metabolically flexible habitat generalists dominating. Sediment viruses, in contrast, are highly novel, local, and structured by reef location.
+
+## Publications
+
+### Thesis publications
+
+**Ishida, H.**, Riginos, C., & Chan, C. X. (2024). Contaminant or goldmine? In silico assessment of Symbiodiniaceae community using coral hologenomes. *Frontiers in Protistology*, 2, 1376877. <https://doi.org/10.3389/frpro.2024.1376877>
+
+**Ishida, H.**, John, U., Murray, S. A., Bhattacharya, D., & Chan, C. X. (2023). Developing model systems for dinoflagellates in the post-genomic era. *Journal of Phycology*, 59(5), 799-808. <https://doi.org/10.1111/jpy.13386>
+
+### Other publications
+
+Denis, H., Prata, K. E., **Ishida, H.**, Popovic, I., Mocellin, V. J. L., Boussion, M., Byrne, I., Purcell, S. W., Bay, L. K., Lecellier, G., Chan, C. X., Riginos, C., Howells, E. J., & Berteaux-Lecellier, V. (2026). Contrasting population structures of reef-building corals and their algal symbionts inform adaptive potential across the western Pacific. *Current Biology*, 36(11), 2808-2822. <https://doi.org/10.1016/j.cub.2026.04.057>
+
+Riginos, C., Popovic, I., Meziere, Z., Garcia, V. O., Byrne, I., Howitt, S. M., **Ishida, H.**, Bairos-Novak, K. R., Humanes, A., & Scharfenstein, H. (2024). Cryptic species and hybridisation in corals: challenges and opportunities for conservation and restoration. *Peer Community Journal*, 4, e106. <https://doi.org/10.24072/pcjournal.492>
+
+Prata, K. E., Bongaerts, P., Dwyer, J. M., **Ishida, H.**, Howitt, S. M., Hereward, J. P., Crandall, E. D., & Riginos, C. (2024). Some reef-building corals only disperse metres per generation. *Proceedings of the Royal Society B: Biological Sciences*, 291(2027), 20231988. <https://doi.org/10.1098/rspb.2023.1988>
+
+### Submitted
+
+Liu, X., **Ishida, H.**, Wu, M., Yu, Z., Yuan, Z., Chan, C. X., & Guo, J. Fungal oxidation of short-chain gaseous alkanes under extremely acidic conditions. *Microbiome*.
+
+### In preparation
+
+**Ishida, H.**, Denis, H., Byrne, I., Meziere, Z., Naugle, M., Bertola, L., Prata, K., Popovic, I., Howells, E., Riginos, C., & Chan, C. X. Ecology, Evolution, and Environment: comparative analysis of coral hologenomes highlights the diversity, lifestyle, and genome evolution of endosymbiotic dinoflagellates.
+
+**Ishida, H.**, Robbins, S. J., Bell, S. C., Lim, J. Y., Webster, N., Bourne, D. G., Laffy, P. W., Hugenholtz, P., Yeoh, Y. K., & Chan, C. X. Comparative metagenomics reveals diversity and metabolic heterogeneity of sediment microbes from the Great Barrier Reef.
+
+**Ishida, H.**, Riginos, C., & Chan, C. X. Habitat-resolved metagenomic view of prokaryotic and viral communities in sediments of the Great Barrier Reef.
+
+## Code
+
+[Symb-SHIN](https://github.com/hisatakeishida/Symb-SHIN): workflow for assessing Symbiodiniaceae communities from coral hologenome data.
+
+[IMOS-GBR-Sediment-Microbe](https://github.com/hisatakeishida/IMOS-GBR-Sediment-Microbe): methods, data and code for the comparative metagenomic analysis of Great Barrier Reef sediment microbes.
